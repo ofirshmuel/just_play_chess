@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC91CC14-43E4-4E6F-9EAD-75E1985CD421}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Just_Play_Chess</RootNamespace>
+    <AssemblyName>Just Play Chess</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Chess icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Menu.Designer.cs">
+      <DependentUpon>About_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All_pieces.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>All_pieces.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Before_Game_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Before_Game_Form.Designer.cs">
+      <DependentUpon>Before_Game_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bishop.cs" />
+    <Compile Include="Contact_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact_Menu.Designer.cs">
+      <DependentUpon>Contact_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game_Form.Designer.cs">
+      <DependentUpon>Game_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General_Piece.cs" />
+    <Compile Include="High_Score_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="High_Score_Form.Designer.cs">
+      <DependentUpon>High_Score_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="King.cs" />
+    <Compile Include="Knight.cs" />
+    <Compile Include="Main_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main_Menu.Designer.cs">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs" />
+    <Compile Include="Options_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options_menu.Designer.cs">
+      <DependentUpon>Options_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pawn.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queen.cs" />
+    <Compile Include="Rook.cs" />
+    <EmbeddedResource Include="About_Menu.resx">
+      <DependentUpon>About_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All_pieces.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>All_pieces.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Before_Game_Form.resx">
+      <DependentUpon>Before_Game_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact_Menu.resx">
+      <DependentUpon>Contact_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game_Form.resx">
+      <DependentUpon>Game_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="High_Score_Form.resx">
+      <DependentUpon>High_Score_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_Menu.resx">
+      <DependentUpon>Main_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options_menu.resx">
+      <DependentUpon>Options_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Main_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_botton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_botton_neg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Chess icon.ico" />
+    <None Include="Resources\Return_home_btn_neg.png" />
+    <None Include="Resources\Return_home_btn.png" />
+    <None Include="Resources\High_Score_Form_Background.png" />
+    <None Include="Resources\game_form_cover.png" />
+    <None Include="Resources\Before_Game_background.png" />
+    <None Include="Resources\rook_white.png" />
+    <None Include="Resources\rook_red.png" />
+    <None Include="Resources\rook_blue.png" />
+    <None Include="Resources\rook_black.png" />
+    <None Include="Resources\queen_white.png" />
+    <None Include="Resources\queen_red.png" />
+    <None Include="Resources\queen_blue.png" />
+    <None Include="Resources\queen_black.png" />
+    <None Include="Resources\pawn_white.png" />
+    <None Include="Resources\pawn_red.png" />
+    <None Include="Resources\pawn_blue.png" />
+    <None Include="Resources\pawn_black.png" />
+    <None Include="Resources\knight_white.png" />
+    <None Include="Resources\knight_red.png" />
+    <None Include="Resources\knight_blue.png" />
+    <None Include="Resources\knight_black.png" />
+    <None Include="Resources\king_white.png" />
+    <None Include="Resources\king_red.png" />
+    <None Include="Resources\king_blue.png" />
+    <None Include="Resources\king_black.png" />
+    <None Include="Resources\bishop_white.png" />
+    <None Include="Resources\bishop_red.png" />
+    <None Include="Resources\bishop_blue.png" />
+    <None Include="Resources\bishop_black.png" />
+    <None Include="Resources\game_form_picutre.png" />
+    <None Include="Resources\play_botton_reg.png" />
+    <None Include="Resources\about_menu_return_neg.png" />
+    <None Include="Resources\about_menu_return.png" />
+    <None Include="Resources\about_menu_wallpaper.png" />
+    <None Include="Resources\contact_menu_return_neg.png" />
+    <None Include="Resources\contact_menu_return.png" />
+    <None Include="Resources\contact_menu_wallpaper.png" />
+    <None Include="Resources\options_menu_contact_negative.png" />
+    <None Include="Resources\options_menu_contact.png" />
+    <None Include="Resources\options_menu_settings_negative.png" />
+    <None Include="Resources\options_menu_settings.png" />
+    <None Include="Resources\options_menu_about_negative.png" />
+    <None Include="Resources\options_menu_about.png" />
+    <None Include="Resources\options_menu_home_negative.png" />
+    <None Include="Resources\options_menu_home.png" />
+    <None Include="Resources\Options_menu.png" />
+    <None Include="Resources\play_botton.png" />
+    <None Include="Resources\high_score_botton_neg.jpg" />
+    <None Include="Resources\high_score_botton.jpg" />
+    <None Include="Resources\options_botton_neg.jpg" />
+    <None Include="Resources\options_botton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

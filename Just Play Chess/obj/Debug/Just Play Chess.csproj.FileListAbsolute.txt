@@ -1,0 +1,105 @@
+H:\פרוייקט\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+H:\פרוייקט\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+H:\פרוייקט\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csprojResolveAssemblyReference.cache
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+H:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+E:\פרוייקט\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+E:\פרוייקט\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+E:\פרוייקט\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csprojResolveAssemblyReference.cache
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+E:\פרוייקט\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csprojResolveAssemblyReference.cache
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+F:\LAST\גיבוי פרויקט  4.12\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+E:\LAST\גיבוי פרויקט  31.1\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csprojResolveAssemblyReference.cache
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+H:\LAST\גיבוי פרויקט  22.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csprojResolveAssemblyReference.cache
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe.config
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.exe
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.pdb
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.exe
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\bin\Debug\Just Play Chess.pdb
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csprojResolveAssemblyReference.cache
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.About_Menu.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.All_pieces.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Before_Game_Form.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Contact_Menu.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Game_Form.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Main_Menu.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Options_menu.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.Properties.Resources.resources
+E:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just Play Chess.csproj.GenerateResource.Cache
+F:\LAST\גיבוי פרויקט  29.02\Just Play Chess\Just Play Chess\obj\Debug\Just_Play_Chess.High_Score_Form.resources
